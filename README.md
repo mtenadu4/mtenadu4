@@ -1,16 +1,45 @@
-### Hi there 👋
 
-<!--
-**mtenadu4/mtenadu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi,👋 I'm <i>Eugene</i></h1>
 
-Here are some ideas to get you started:
+<p>A frontend developer from Ghana</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+I'm a frontend developer with some backend web development training.
+
+I use CSS, HTML, Javascript, Python and Django to bring customers' dreams to life in  the form of interactive websites.
+
+I am a Ghanaian. I live in Kumasi in the Ashanti Region.
+
+I have a Bachelor of Science degree in Agriculture from the Kwame Nkrumah University of Science and Technology.
+
+
+## 🛠 Skills
+HTML
+
+CSS 
+
+Python
+
+Django 
+
+Javascript
+
+
+## Contact
+
+<p>You can contact me</p>
+
+<ol>
+<li><a href="http://twitter.com/ME_Tenadu">Twitter</a></li>
+<li><a href="http://linkedin.com/in/eugene-tenadu-211715195">Linkedin</a></li>
+<li><a href="http://instagram.com/metenadu_4">Instagram</a></li>
+</ol>
+
+OR 
+
+You can send me an email at mtenadu4@gmail.com
+
+
+
