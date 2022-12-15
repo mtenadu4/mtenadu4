@@ -6,9 +6,9 @@
 
 
 ## 🚀 About Me
-I'm a frontend developer with some backend web development training.
+I'm a frontend developer.
 
-I use CSS, HTML, Javascript, Python and Django to bring customers' dreams to life in  the form of interactive websites.
+I use CSS, HTML and Javascript to bring customers' dreams to life in  the form of interactive websites.
 
 I am a Ghanaian. I live in Kumasi in the Ashanti Region.
 
@@ -19,10 +19,6 @@ I have a Bachelor of Science degree in Agriculture from the Kwame Nkrumah Univer
 HTML
 
 CSS 
-
-Python
-
-Django 
 
 Javascript
 
